@@ -1,6 +1,6 @@
 ![Screen Shot 2022-07-18 at 2 27 30 PM](https://user-images.githubusercontent.com/99596577/179578356-c474f225-8b3e-41a5-ae0b-5b9a85681912.png)
 
-# [Deployed Link] (https://rancid-tomatillos-ba-lk.herokuapp.com/)
+# [Deployed Link](https://rancid-tomatillos-ba-lk.herokuapp.com/)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -60,10 +60,11 @@ Future features could include:
 
 ## Contributors
 
+**Brandon Ainsworth**
+* [LinkedIn](https://www.linkedin.com/in/brandon-ainsworth-922164183/)
+* [GitHub](https://github.com/BrandonAinsworth)
+
 **Lidia Karpinski**
 * [LinkedIn](https://www.linkedin.com/in/lidia-karpinski/)
 * [GitHub](https://github.com/lkarpins)
 
-**Brandon Ainsworth**
-* [LinkedIn](https://www.linkedin.com/in/brandon-ainsworth-922164183/)
-* [GitHub](https://github.com/BrandonAinsworth)
